@@ -1,2 +1,3 @@
 # hello-world
-Testing 123
+
+This is a tutorial for learning Git and GitHub!
